@@ -8,7 +8,7 @@
             id="city"
             type="search"
             class="form-control form-control-lg"
-            placeholder="Hava durumunu öğrenmek istediğiniz şehri yazın."
+            placeholder="Bir şehir ismi yazınız"
             v-model="cityName"
             autocomplete="off"
           />
