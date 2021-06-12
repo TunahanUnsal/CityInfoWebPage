@@ -1,0 +1,49 @@
+
+
+
+JavaScript rahat olsun diye VUE veya NUXT bak kullan,
+CSS Frame work bootstrap olacak,
+Ücretsiz havadurumu apisi "open weather map" bak,
+Veritabanı sqllite'a bak,
+Wikipedia'nın apisi var oradan şehir bilgisi alınabilir.
+
+=================================
+
+
+
+Vue / Nuxt
+https://vuejs.org/
+https://nuxtjs.org/
+https://nuxtjs.org/docs/2.x/get-started/installation
+https://nuxtjs.org/docs/2.x/directory-structure/nuxt
+https://nuxtjs.org/docs/2.x/directory-structure/nuxt-config
+https://nuxtjs.org/examples
+
+
+Bootstrap (UI framework)
+https://getbootstrap.com/
+https://linuxhint.com/install-use-bootstrap-with-vue-js/
+https://www.npmjs.com/package/bootstrap-vue
+https://bootstrap-vue.org/
+https://bootstrap-vue.org/docs/reference
+
+Hava Durumu API
+https://openweathermap.org/
+
+Wikipedia API
+https://www.mediawiki.org/wiki/API:Main_page
+https://www.google.com/search?q=wikipedia+api+city+info&oq=wikipedia+api+city+info&aqs=chrome..69i57j33i22i29i30l5.5833j0j9&sourceid=chrome&ie=UTF-8
+https://stackoverflow.com/questions/40066073/how-to-query-the-wikipedia-api-for-a-city-in-the-united-states
+https://www.mediawiki.org/wiki/API:Query
+https://wiki.openstreetmap.org/wiki/Nominatim
+
+
+SQLite
+https://www.npmjs.com/package/sqlite
+https://www.sqlite.org/index.html
+
+SQLite için "upsert" nasıl diye bak!
+- insert/update (upsert)
+https://www.google.com/search?q=how+to+upsert+in+sqllite&oq=how+to+upsert+in+sqllite&aqs=chrome..69i57j0i10i22i30.6296j0j4&sourceid=chrome&ie=UTF-8
+https://chartio.com/resources/tutorials/how-to-insert-if-row-does-not-exist-upsert-in-mysql/#using-insert-on-duplicate-key-update
+https://stackoverflow.com/questions/62825826/sql-error-or-missing-database-near-duplicate-syntax-error
